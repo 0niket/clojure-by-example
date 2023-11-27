@@ -107,15 +107,6 @@ Once installed:
 
 - Keep the [Paredit guide](https://calva.io/paredit/) handy, editing code will require some understanding of paredit.
 
-### Java
-
-- Run `java -version` in your terminal.
-- If Java is not installed, please [download and install Java from here](https://adoptopenjdk.net/). Any version should do.
-- Once you are done, `java -version` should show you a Java version.
-
-Notes:
-
-- We have not tested this project with Java 7.
 
 ## Your favourite editor:
 
